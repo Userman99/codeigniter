@@ -22,4 +22,9 @@ class sign extends CI_Controller {
 	{
 		$this->load->view('v_login2');
 	}
+
+	public function logut()
+	{
+		# code...
+	}
 }
