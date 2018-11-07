@@ -3,10 +3,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- SKRIP LOGIN -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Sign Up Form by Colorlib</title>
+    <title>Tarbiyah</title>
 
     <!-- Font Icon -->
     <link rel="stylesheet" href="<?php echo base_url ('fix/login/fonts/material-icon/css/material-design-iconic-font.min.css');?>">

@@ -3,11 +3,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
+<!-- SKRIP_REGIST -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Sign Up Form by Colorlib</title>
+    <title>Registasi</title>
 
     <!-- Font Icon -->
     <link rel="stylesheet" href="<?php echo base_url ('fix/login/fonts/material-icon/css/material-design-iconic-font.min.css');?>">
@@ -38,10 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <label for="pass"><i class="zmdi zmdi-lock"></i></label>
                                 <input type="password" name="pass" id="pass" placeholder="Password"/>
                             </div>
-                            <div class="form-group">
-                                <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
-                                <input type="text" name="name" id="name" placeholder="Your Name"/>
-                            </div>
+                            
                             <div class="form-group">
                                 <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
                                 <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
@@ -52,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </form>
                     </div>
                     <div class="signup-image">
-                        <figure><img src="<?php echo base_url ('fix/login/images/signup-image.jpg" alt="sing up image');?>"></figure>
+                        <figure><img src="<?php echo base_url ('fix/login/images/logo2.jpg" alt="sing up image');?>"></figure>
                         <a href="sign" class="signup-image-link">I am already member</a>
                     </div>
                 </div>

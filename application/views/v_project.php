@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tarbiyah Islmaiyah</title>
+    <title>Tarbiyah Islamiyah</title>
 
     <!-- Bootstrap core CSS -->
     <link href="fix/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -57,7 +57,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="fix/img/portfolio/buku3.png" alt="">
+        <img class="img-fluid mb-5 d-block mx-auto" src="fix/img/profile.png" alt="">
         <h1 class="text-uppercase mb-0">Tarbiyah Islamiyah</h1>
         <hr class="star-light">
         <h2 class="font-weight-light mb-0">PENDIDIKAN MELAHIRKAN HARAPAN BARU</h2>
