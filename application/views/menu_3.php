@@ -7,13 +7,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
    
 
-    <title>materi</title>
+    <title>diskusi</title>
 
   </head>
 
 
 <body>
 
-  <h3> TES </h3>
+  <h3> TES 3 </h3>
       </body>
       </html>
