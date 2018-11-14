@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Main css -->
     <link rel="stylesheet" href="<?php echo base_url ('fix/login/css/style.css');?>">
 </head>
-<body>
+<body bgcolor="F0E68C">
 
     <div class="main">
 
@@ -47,14 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <input type="submit" name="signin" id="signin" class="form-submit" value="Log in"/>
                             </div>
                         </form>
-                        <div class="social-login">
-                            <span class="social-label">Or login with</span>
-                            <ul class="socials">
-                                <li><a href="#"><i class="display-flex-center zmdi zmdi-facebook"></i></a></li>
-                                <li><a href="#"><i class="display-flex-center zmdi zmdi-twitter"></i></a></li>
-                                <li><a href="#"><i class="display-flex-center zmdi zmdi-google"></i></a></li>
-                            </ul>
-                        </div>
+                    
                     </div>
                 </div>
             </div>
