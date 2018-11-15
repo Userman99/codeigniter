@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Main css -->
     <link rel="stylesheet" href="<?php echo base_url ('fix/login/css/style.css');?>">
 </head>
-<body bgcolor="F0E68C">
+<body>
 
     <div class="main">
 
@@ -29,7 +29,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
 
                     <div class="signin-form">
-                        <h2 class="form-title">Sign up</h2>
+                        <h2 class="form-title">Log in</h2>
                         <form method="POST" class="register-form" id="login-form">
                             <div class="form-group">
                                 <label for="your_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
@@ -47,11 +47,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <input type="submit" name="signin" id="signin" class="form-submit" value="Log in"/>
                             </div>
                         </form>
-<<<<<<< HEAD
-                       
-=======
-                    
->>>>>>> e7b28af427ff6b9bcadf77768bbf5856a4747ee8
                     </div>
                 </div>
             </div>
