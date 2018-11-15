@@ -9,11 +9,6 @@
             <p class="lead">Sedangkan Pendidikan yaitu Sarana Untuk tercapainya suatu kengininan yang di landasi oleh hati kita, pendidikan bukanlah materi melainkan nutrisi bagi jiwa yang haus akan ilmu, Dan Pendidikan mampu melahirkan orang orang optimis, karna sebutir optimisme lebih berharga dari pada sekarung bakat terpendam</p>
           </div>
         </div>
-        <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="#">
-            
-            Back!
-          </a>
-        </div>
+        
       </div>
       
