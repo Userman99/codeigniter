@@ -47,7 +47,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <input type="submit" name="signin" id="signin" class="form-submit" value="Log in"/>
                             </div>
                         </form>
+<<<<<<< HEAD
+                       
+=======
                     
+>>>>>>> e7b28af427ff6b9bcadf77768bbf5856a4747ee8
                     </div>
                 </div>
             </div>
