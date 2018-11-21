@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Main css -->
     <link rel="stylesheet" href="<?php echo base_url ('fix/login/css/style.css');?>">
 </head>
-<body>
+<body bgcolor ="black">
 
     <div class="main">
 

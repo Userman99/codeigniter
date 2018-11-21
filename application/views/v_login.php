@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Main css -->
     <link rel="stylesheet" href="../fix/login/css/style.css">
 </head>
-<body>
+<body bgcolor ="red">
 
     <div class="main">
 
