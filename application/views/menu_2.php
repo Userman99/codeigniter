@@ -21,7 +21,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body bgcolor="white">
 <h2>
 <center>
-<align = center>TARBIYAH RASMUL BAYAN<br>
 <br>
 UJIAN DASAR TARBIYAH<br>
 TAHUN AKADEMIK 2018/2019<br>
@@ -57,7 +56,7 @@ TAHUN AKADEMIK 2018/2019<br>
 <u><h2>
 SOAL PILIHAN GANDA</h2>
 </U></P>
-<form id="form1" name="form1" method="post" action="">
+<form id="form1" name="form1" method="post" action="quiz.php">
  <ol start="1" type="1">
 <li>Dintara berikut mana saja yang termasuk dalam BAB Makna Syahadat</li>
 <br>
@@ -158,7 +157,7 @@ SOAL PILIHAN GANDA</h2>
 <li><input type="radio" name="NO9" value="a">Bodoh </li>
 <li><input type="radio" name="NO9" value="b">Ragu-Ragu</li>
 <li><input type="radio" name="NO9" value="c">Lalai</li>
-<li><input type="radio" name="NO9" value="d">Pendiam</li>
+<li><input type="radio" name="NO9" value="d">Pendiam2</li>
 </i>
    </ol>
 <br>
@@ -183,6 +182,8 @@ Dari beberapa pernyataan manakah diantara penyakit syahwat </p>
 </i>
    </ol>
 </ol>
+
+<input type ="submit" name="insert" value="SUBMIT"><br>
 </form>
 <br>
  <marquee behavior="alternate" scrollamount="5"> <font name="Forte"><u><h3>

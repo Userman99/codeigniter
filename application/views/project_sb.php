@@ -3,7 +3,7 @@
         <hr class="star-dark mb-5">
         <div class="row">
           <div class="col-md-6 col-lg-4">
-            <a class="portfolio-item d-block mx-auto" href=index.php/view_menu>
+            <a class="portfolio-item d-block mx-auto" href=index.php/materi>
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fas fa-search-plus fa-3x"></i>
@@ -16,7 +16,7 @@
           </div>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a class="portfolio-item d-block mx-auto" href="index.php/view_menu2">
+            <a class="portfolio-item d-block mx-auto" href="index.php/QUIZ">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fas fa-search-plus fa-3x"></i>
@@ -29,7 +29,7 @@
           </div>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a class="portfolio-item d-block mx-auto" href="index.php/view_menu3">
+            <a class="portfolio-item d-block mx-auto" href="index.php/Diskusi">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fas fa-search-plus fa-3x"></i>

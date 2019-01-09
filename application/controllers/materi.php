@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class View_menu extends CI_Controller {
+class Materi extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.

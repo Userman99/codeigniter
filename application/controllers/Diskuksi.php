@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class View_menu2 extends CI_Controller {
+class Diskusi extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +20,6 @@ class View_menu2 extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('menu_2');
+		$this->load->view('menu_3');
 	}
 }
