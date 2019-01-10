@@ -55,6 +55,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
                 </div>
             </div>
+            <?php foreach ($sekolah as $s) ?>
+            {
+                
+
+            }
+            ?>
         </section>
     </div>
 
